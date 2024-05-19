@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="about_title">Tentang Aplikasi Alumni</string>
+    <string name="about_pertama">Perkenalkan nama saya Muhammad Reza Harsono dari TI-4B Politeknik Negeri Jakarta. Berikut merupakan aplikasi yang saya buat untuk memenuhi Ujian Tengah Semester Mobile Programming.</string>
+    <string name="about_kedua">Aplikasi berikut dibuat dengan menggunakan Jetpack Compose.</string>
+</resources>
